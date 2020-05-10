@@ -32,11 +32,14 @@ sidebar:
         level: Native
 
     interests:
-      - item: Walking
+      - item: Walking in the rain
         link:
 
       - item: literature and philosophy
         link:
+       
+       - item: Writing short stories
+        link: https://malmojtaba.wordpress.com/
 
 career-profile:
     title: Career Profile
