@@ -104,8 +104,8 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: Prediction of Customer Default          
+        link: "https://github.com/dataubc/DSCI_522_group-314"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
