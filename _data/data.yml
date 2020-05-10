@@ -106,23 +106,16 @@ projects:
     assignments:
       - title: Prediction of Customer Default          
         link: "https://github.com/dataubc/DSCI_522_group-314"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A Logistic regression model to predict customer default payment"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title:  Overdose app- A visualization dashboard in Python and R
+        link: "https://github.com/dataubc/DSCI_532_Group_113_Overdose"
+        tagline: "A visualization app for the accidental overdose death by drugs."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: A package in Python and R 
+        link: "https://github.com/UBC-MDS/rimager"
+        tagline: "Image manipulation and processing"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
