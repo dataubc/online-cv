@@ -99,9 +99,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Current projects were completed as part of the Master of Data Science program at UBC
     assignments:
       - title: Prediction of Customer Default          
         link: "https://github.com/dataubc/DSCI_522_group-314"
