@@ -13,16 +13,16 @@ sidebar:
 
     # Sidebar links
     email: mmohamme@ualberta.ca
-    phone: 012 345 6789
-    website: [linkedin](www.linkedin.com/in/mohammedalsalama/) #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
+    #phone: 780 345 6789
+    #website:  #do not add http://
+    linkedin: mohammedalsalama
+    github: dataubc
+   # gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
@@ -41,53 +41,48 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Combining the rigorousness of engineering and the deep insights of data science,
+      the love of philosophy and the passion for story telling,I am a multipotentialite
+      with eagerness for knowledge who is looking for the next opportunity to harvest
+      his rich experience and skills to create, design, analyze, initiate, play, share 
+      and change the world into a better place for all. I am currently pursuing 
+      a master of data science at  
+      
+      
+     
+      
+      
+           
+
+ 
 education:
-    - degree: MSc in Computer Science
+    - degree: Master of Data Science
       university: University of London
-      time: 2011 - 2012
+      time: Completion data is June 30, 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        The Master of Data Science is crowned with a mentored group project based on real data
+        and questions from a partner within or outside the university. Students formulate questions
+        and design and execute a suitable analysis plan. The group then work collaboratively to produce
+        a reproducible analysis pipeline, project report, presentation and possibly other products,
+        such as a dashboard.
+    - degree: MSc in Petroleum Engineering
+      university: University of Alberta
+      time: 2012 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        A full-time research based program,worked on Enhanced oil/heavy-oil recovery using chemical and thermal
+        methods. Worked on developing advanced technologies for the efficient depletion of unconventional oil 
+        reserves through experimental and numerical methods.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Engineer
+      time: 2018 - 2019
+      company: University of Alberta, Edmonton
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
+       Applied statistical techniques and regression analysis to identify set of parameters that lead to maximum 
+       likelihood for production optimization.
+       Developed an analytical tool (python) to screen reservoirs for potential application of enhanced oil recovery
+       technology.
+    - role: Self-employed
+      time: 2017 - 2019
       company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -97,17 +92,12 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Petroleum Engineer
+      time: 2014 - 2016
+      company: Sudapet, Khartoum
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Implemented data analytic methods to improve the understanding of the risks and
+        uncertainties associated with reserve/resource estimation.
 projects:
     title: Projects
     intro: >
@@ -162,22 +152,22 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+
 
       - name: Javascript & jQuery
-        level: 98%
+
 
       - name: Angular
-        level: 98%
+
 
       - name: HTML5 & CSS
-        level: 95%
+
 
       - name: Ruby on Rails
-        level: 85%
+
 
       - name: Sketch & Photoshop
-        level: 60%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
