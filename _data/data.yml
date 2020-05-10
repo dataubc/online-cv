@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Mohammed Salama
+    name: Mohammed A. Salama
     tagline: Data Scientist
     avatar: my_photo.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -124,7 +124,6 @@ publications:
       - title: "Wettability alteration: A comprehensive review of materials/methods and testing the selected ones on heavy-oil containing oil-wet systems"
 
       - title: "Wettability alteration of heavy-oil-bitumen-containing carbonates by use of solvents, high-pH solutions, and nano/ionic liquids"
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
       - title: "Experimental investigation of wettability alteration in oil-wet reservoirs containing heavy oil"
       
@@ -137,22 +136,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Programming for Data Science (Python & R)
 
 
-      - name: Javascript & jQuery
+      - name: Data Visualization (ggplot2,plotly,R Markdown, Jupyter Notebook)
 
 
-      - name: Angular
+      - name: Databases and Data Retrieval (SQL,MongoDB)
 
 
-      - name: HTML5 & CSS
+      - name: Unsupervised Machine Learning (K-Means algorithm, Multidimensional Scaling, Principal Component Analysis)
 
 
-      - name: Ruby on Rails
+      - name: Advanced Machine Learning (NLP, Image processing, scikit-learn, Keras, Tensorflow)
 
 
-      - name: Sketch & Photoshop
+      - name: Data Mining(Scrapy)
 
 
 footer: >
