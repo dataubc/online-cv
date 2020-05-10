@@ -136,22 +136,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Programming for Data Science (Python & R)
+      - name: Python & R
 
 
-      - name: Data Visualization (ggplot2,plotly,R Markdown, Jupyter Notebook)
+      - name: ggplot2 & plotly
 
 
-      - name: Databases and Data Retrieval (SQL,MongoDB)
+      - name: SQL & MongoDB
 
 
-      - name: Unsupervised Machine Learning (K-Means algorithm, Multidimensional Scaling, Principal Component Analysis)
+      - name: K-Means algorithm & Principal Component Analysis
 
 
-      - name: Advanced Machine Learning (NLP, Image processing, scikit-learn, Keras, Tensorflow)
+      - name: Keras & Tensorflow
 
 
-      - name: Data Mining(Scrapy)
+      - name: NLP
 
 
 footer: >
