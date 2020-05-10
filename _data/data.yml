@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: mmohamme@ualberta.ca
     phone: 012 345 6789
-    website: www.linkedin.com/in/mohammedalsalama/ #do not add http://
+    website: [linkedin](www.linkedin.com/in/mohammedalsalama/) #do not add http://
     linkedin: alandoe
     github: sharu725
     gitlab:
