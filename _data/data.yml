@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Mohammed Salama
     tagline: Data Scientist
-    avatar: my_photo.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mmohamme@ualberta.ca
@@ -53,11 +53,10 @@ career-profile:
       
       
            
-
  
 education:
     - degree: Master of Data Science
-      university: The University of British Columbia
+      university: University of London
       time: Completion data is June 30, 2020
       details: |
         The Master of Data Science is crowned with a mentored group project based on real data
@@ -98,16 +97,16 @@ experiences:
       details: |
         Implemented data analytic methods to improve the understanding of the risks and
         uncertainties associated with reserve/resource estimation.
-Prizes and Awards:
-    title: Prizes and Awards
+projects:
+    title: Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Winner of the Association for the Promotion of Scientific Innovation prize for the best
-      graduation project in Petroleum Engineering 
-
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
         link: "#"
@@ -127,11 +126,25 @@ Prizes and Awards:
 
 publications:
     title: Publications
-   
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: Wettability alteration: A comprehensive review of materials/methods and testing the selected ones on heavy-oil
-      containing oil-wet systems
-        link: "https://www.sciencedirect.com/science/article/pii/S0001868615000421#!"
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
