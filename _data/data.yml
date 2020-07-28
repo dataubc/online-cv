@@ -70,12 +70,7 @@ education:
         reserves through experimental and numerical methods.
 
 experiences:
-    - role: Data Scientist 
-      time: 2020 - 2020
-      company: MDS Capstone project in collaboration with Analytika, Calgary
-      details: |
-      Applying k-means, dbscan and hierarchical clustering to improve casing design for oil-wells saving millions of dollars while minimizing environmental negative impact. 
-    - role: Research Engineer
+  - role: Research Engineer
       time: 2018 - 2019
       company: University of Alberta, Edmonton
       details: |
