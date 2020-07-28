@@ -73,7 +73,7 @@ projects:
     intro: >
      Full details can be found in the github
     assignments:
-      - title: Prediction of medical Insurance          
+      - title: Prediction of medical Insurance cost          
         link: "https://github.com/dataubc/insurance_cost"
         tagline: "Testing different regression models to predict the cost of medical insurance"
         
