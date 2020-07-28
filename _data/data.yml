@@ -71,7 +71,7 @@ education:
 
 experiences:
     - role: Data Scientist 
-      time: 2020-05 - 2020-07
+      time: 2020 -2020
       company: MDS Capstone project in collaboration with Analytika, Calgary
       details: |
       Applying k-means, dbscan and hierarchical clustering to improve casing design for oil-wells saving millions of dollars while minimizing environmental negative impact. 
@@ -80,13 +80,7 @@ experiences:
       time: 2018 - 2019
       company: University of Alberta, Edmonton
       details: |
-      • Perform experiments on crud oil/rock samples to collect data on enhanced oil recovery by thermal and chemical injection.
-      • Implement statistical analysis techniques and mathematical modeling to study multi-phase flow in porous media.
-      • Apply advanced Image analysis for quantification purposes (water content in oil emulsions).
-      • Propose cost-effective solutions to improve the economic of CO2 Injection in fractured reservoirs
-
-       
- 
+      Performed experiments on crud oil/rock samples to collect data on enhanced oil recovery by thermal and chemical injection and implement statistical analysis techniques and mathematical modeling to study multi-phase flow in porous media   
     - role: Reservoir Engineer
       time: 2015 - 2017
       company: Sudapet, Khartoum
