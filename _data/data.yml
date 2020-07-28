@@ -73,9 +73,9 @@ projects:
     intro: >
      Full details can be found in the github
     assignments:
-      - title: Prediction of Customer Default          
-        link: "https://github.com/dataubc/DSCI_522_group-314"
-        tagline: "A Logistic regression model to predict customer default payment"
+      - title: Prediction of medical Insurance          
+        link: "https://github.com/dataubc/insurance_cost"
+        tagline: "Testing different regression models to predict the cost of medical insurance"
         
       - title: Prekdiction of Customer Default          
         link: "https://github.com/dataubc/DSCI_522_group-314"
