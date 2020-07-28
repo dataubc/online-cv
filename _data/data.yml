@@ -70,29 +70,28 @@ education:
         reserves through experimental and numerical methods.
 
 experiences:
+    - role: Data Scientist 
+      time: 2020-05 - 2020-07
+      company: MDS Capstone project in collaboration with Analytika, Calgary
+      details: |
+      Applying k-means, dbscan and hierarchical clustering to improve casing design for oil-wells saving millions of dollars while minimizing environmental negative impact. 
+    
     - role: Research Engineer
       time: 2018 - 2019
       company: University of Alberta, Edmonton
       details: |
-       Applied statistical techniques and regression analysis to identify set of parameters that lead to maximum 
-       likelihood for production optimization.
-       Developed an analytical tool (python) to screen reservoirs for potential application of enhanced oil recovery
-       technology.
-       
-       
-       
-    - role: Petroleum Engineering consultant
-      time: 2017 - 2018
-      company: Self-employed 
-      details: |
-        Provided consulation on the application of chemical and thermal EOR in heavy oil containing reservoirs.
+      • Perform experiments on crud oil/rock samples to collect data on enhanced oil recovery by thermal and chemical injection.
+      • Implement statistical analysis techniques and mathematical modeling to study multi-phase flow in porous media.
+      • Apply advanced Image analysis for quantification purposes (water content in oil emulsions).
+      • Propose cost-effective solutions to improve the economic of CO2 Injection in fractured reservoirs
 
-    - role: Petroleum Engineer
-      time: 2014 - 2016
+       
+ 
+    - role: Reservoir Engineer
+      time: 2015 - 2017
       company: Sudapet, Khartoum
       details: |
-        Implemented data analytic methods to improve the understanding of the risks and
-        uncertainties associated with reserve/resource estimation.
+      Responsible for creating and implementing reservoir simulation models, integrating EOR screening software into existing dynamic flow modeling, and developing new workflow to improve the performance prediction of steam injection process
 projects:
     title: Projects
     intro: >
